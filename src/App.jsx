@@ -1,8 +1,12 @@
-import './App.css'; // Archivo de estilos CSS
+import RoutesApp from './routes/RoutesApp';
+import './App.css';
+
 
 const App = () => {
-  return (
-<></>
+ 
+    return (
+      <RoutesApp />
+     
   );
 };
 

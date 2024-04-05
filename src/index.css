@@ -93,3 +93,7 @@ button:focus-visible {
   width: 300px;
 }
 
+.dark button {
+  background-color: white;
+  color: black;
+} 
